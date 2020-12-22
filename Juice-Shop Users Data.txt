@@ -73,7 +73,7 @@ Password = K1f.....................
 ***************************************
 bjoern.kimminich@gmail.com
 but you can use  this email too  => bjoern@owasp.org
-Password = 
+Password = bW9jLmxpYW1nQGhjaW5pbW1pay5ucmVvamI=
 Security answer = Zaya
 
 ****************************************
