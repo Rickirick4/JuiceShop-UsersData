@@ -75,6 +75,30 @@ bjoern.kimminich@gmail.com
 but you can use  this email too  => bjoern@owasp.org
 Password = bW9jLmxpYW1nQGhjaW5pbW1pay5ucmVvamI=
 Security answer = Zaya
+bjoern@juice-sh.op 
+Security answer = West-2082 
+Zip = 25436 => West-2082 
+
+{
+  "status": "success",
+  "data": {
+    "id": 13,
+    "username": "",
+    "email": "bjoern@owasp.org",
+    "password": "9283f1b2e9669749081963be0462e466",
+    "role": "deluxe",
+    "deluxeToken": "efe2f1599e2d93440d5243a1ffaf5a413b70cf3ac97156bd6fab9b5ddfcbe0e4",
+    "lastLoginIp": "0.0.0.0",
+    "profileImage": "assets/public/images/uploads/12.jpg",
+    "totpSecret": "",
+    "isActive": true,
+    "createdAt": "2020-12-22 11:44:09.327 +00:00",
+    "updatedAt": "2020-12-22 11:44:09.327 +00:00",
+    "deletedAt": null
+  },
+  "iat": 1608637987,
+  "exp": 1608655987
+}
 
 ****************************************
 jim@juice-sh.op
