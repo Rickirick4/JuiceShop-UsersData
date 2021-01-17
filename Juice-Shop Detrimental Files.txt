@@ -1,0 +1,5 @@
+"express-jwt": "0.1.3"  for more info => https://app.snyk.io/test/npm/express-jwt/0.1.3
+
+"sanitize-html": "1.4.2"  for more info => https://snyk.io/vuln/npm:sanitize-html:20160801
+
+"eslint-scope": "3.7.2"   for more info => https://snyk.io/vuln/SNYK-JS-ESLINTSCOPE-11120
